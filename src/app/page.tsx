@@ -1,5 +1,5 @@
-import styles from "./page.module.scss";
+import styles from './page.module.scss'
 
 export default function Home() {
-  return <div className={styles.home} />;
+  return <div className={styles.home} />
 }
